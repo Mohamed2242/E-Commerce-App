@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802479863865",
+    "project_id": "registeration-7445d",
+    "storage_bucket": "registeration-7445d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802479863865:android:03904525964cbe43c8b5e8",
+        "android_client_info": {
+          "package_name": "com.MoAh.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802479863865-4b30i3cme8jv20vk7p67c1ng6o0n176p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtg5EZlDR_lWRLHI1K_TsYiecz90okBqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802479863865-4b30i3cme8jv20vk7p67c1ng6o0n176p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
