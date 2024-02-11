@@ -1,8 +1,5 @@
-# e_commerce
+   # E_Commerce App 
 
-A new Flutter project.
-
-### Getting Started
 
  - A mobile application built with Flutter (Dart) that offers a seamless 
    shopping experience for users.
