@@ -1,6 +1,7 @@
    # E_Commerce App 
 
-
+   ### Description:
+   
  - A mobile application built with Flutter (Dart) that offers a seamless 
    shopping experience for users.
  
